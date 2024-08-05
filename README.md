@@ -8,7 +8,8 @@ You will need to download node_modules. Do so with npm i. Once modules hae been 
 
 
 
-### Links to the Github repo
+### Link to the Github repo
+https://github.com/lothylg/svg-logo-maker
 
 ### Link to the video demonstration
 
